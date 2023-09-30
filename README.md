@@ -17,4 +17,28 @@ Use otu_labels as the hovertext for the chart.
 
 ![image](https://github.com/JasmineK20/belly-button-challenge/assets/135649789/6ffdbbe6-bd12-4064-80f1-1616d8439afc)
 
-i
+
+Create a bubble chart that displays each sample.
+
+Use otu_ids for the x values.
+
+Use sample_values for the y values.
+
+Use sample_values for the marker size.
+
+Use otu_ids for the marker colors.
+
+Use otu_labels for the text values.
+
+![image](https://github.com/JasmineK20/belly-button-challenge/assets/135649789/8310323c-a393-4861-adfb-b7db8635611c)
+
+
+
+Display the sample metadata, i.e., an individual's demographic information.
+
+Display each key-value pair from the metadata JSON object somewhere on the page.
+
+![image](https://github.com/JasmineK20/belly-button-challenge/assets/135649789/22cac638-046c-4632-addc-c56947767a3c)
+
+
+
